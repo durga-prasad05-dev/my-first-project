@@ -1,0 +1,6 @@
+commands
+1.git init --initial-branch=main
+2. git remote add origin https://github.com/durga-prasad05-dev/my-first-project.gitgit gitgit 
+4. git status
+5. git  "initial-commit"
+6. git push -u origin main
