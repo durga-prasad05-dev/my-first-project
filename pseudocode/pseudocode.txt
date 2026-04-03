@@ -45,3 +45,20 @@ IF number is %2 == 0
 ELSE
     Print "odd"
 END
+
+EXAMPLE 3: FIND GREATEST OF TWO NUMBERS
+
+LOGIC
+1 TAKE 2 NUMBERS
+2 NUMBER1 > NUMBER2  PRINT N1 IS GREATEST
+3 ELSE N2 IS GREATEST
+
+PSEUDOCODE
+
+START
+READ number1,number2
+IF number1 > number 2
+    Print number1 is greatest
+ELSE
+    Print number2 is greatest
+END
