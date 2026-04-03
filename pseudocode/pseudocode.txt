@@ -1,0 +1,31 @@
+pseudocode is a step by step description of solution written in plain,human readble language
+
+
+
+
+standard pseudocode structure
+
+START
+READ input
+Initialize variables
+Apply logic step  by step
+Print output
+END
+
+
+EXAMPLE
+ADD TWO NUMBERS
+
+LOGIC 
+1.TAKE 2 NUMBERS
+2.ADD
+3.DISPLAY RESULT
+
+PSEUDOCODE
+
+START
+READ number1,number2
+SET sum = number1 + number2
+PRINT sum
+END
+
