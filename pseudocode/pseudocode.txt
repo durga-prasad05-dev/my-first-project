@@ -29,3 +29,19 @@ SET sum = number1 + number2
 PRINT sum
 END
 
+EXAMPLE 2 DECISSION MAKING (IF-ELSE)
+PROBLEM: CHECK EVEN OR ODD
+
+LOGIC
+1.IF NUMBER IS DIVISIBLE BY 2 THEN IT IS EVEN 
+2.OTHERWISE IT IS ODD
+   
+PSEUDO CODE
+
+START
+READ number
+IF number is %2 == 0
+    Print "even"
+ELSE
+    Print "odd"
+END
