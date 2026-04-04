@@ -72,6 +72,6 @@ PSEUDOCODE
 START
 READ teluguMarks,hindiMarks,englishMarks,mathMarks,scienceMarks
 SET totalMarks=teluguMarks+hindiMarks+englishMarks+mathMarks+scienceMarks
-SET averagemarks=totalMarks/5
-PRINT toatalmarks,averageMarks
+SET averageMarks=totalMarks/5
+PRINT toatalMarks,averageMarks
 END
