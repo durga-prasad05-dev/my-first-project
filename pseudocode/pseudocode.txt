@@ -96,5 +96,4 @@ ELSE IF (number2>=number1)AND(number2>=number3)
 ELSE
    PRINT number3 is greatest
 END
-=======
->>>>>>> a092af402fd49d146d5479da39c7121407c9f797
+
