@@ -72,6 +72,26 @@ PSEUDOCODE
 START
 READ teluguMarks,hindiMarks,englishMarks,mathMarks,scienceMarks
 SET totalMarks=teluguMarks+hindiMarks+englishMarks+mathMarks+scienceMarks
-SET averagemarks=totalMarks/5
-PRINT toatalmarks,averageMarks
+SET averageMarks=totalMarks/5
+PRINT toatalMarks,averageMarks
+END
+
+EXAMPLE 5:FIND GREATEST OF THREE NUMBERS
+
+LOGIC 
+TAKE THREE NUMBERS
+READ 3  NUMBERS 
+COMPARE 3 NUMBERS
+DISPLAY RESULT
+
+PSEUDOCODE
+
+START
+READ number1,number2,number3
+IF (number1>=number2)AND(number1>=number3)
+   PRINT number1 is greatest
+ELSE IF (number2>=number1)AND(number2>=number3)
+   PRINT number2 is greatest
+ELSE
+   PRINT number3 is greatest
 END
