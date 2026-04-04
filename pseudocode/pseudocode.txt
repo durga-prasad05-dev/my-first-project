@@ -62,3 +62,16 @@ IF number1 > number 2
 ELSE
     Print number2 is greatest
 END
+
+
+
+EXAMPLE 4:ARJUN STUDYING IN THE 5TH STANDARD.HE HAS MID EXAMS WHICH CONTAINS 5 SUBJECTS INCLUDING TELUGU,HINDI,ENGLISH,MATH AND SCIENCE.HE GOT HIS OWN MARKS FOR ALL THESE SUBJECTS. CAN YOU HELP HIM TO CALCULATE HIS TOTAL MARKS AND AVERAGE MARKS
+
+PSEUDOCODE
+
+START
+READ teluguMarks,hindiMarks,englishMarks,mathMarks,scienceMarks
+SET totalMarks=teluguMarks+hindiMarks+englishMarks+mathMarks+scienceMarks
+SET averagemarks=totalMarks/5
+PRINT toatalmarks,averageMarks
+END
