@@ -1,0 +1,15 @@
+BASIC LOOP PROBLEMS
+
+1.PRINT NUMBERS FROM 1 TO N
+
+
+START
+READ n = 5
+i = 1
+WHILE i<=n
+   PRINT i
+   i=i+1
+END WHILE
+END
+
+
