@@ -4,12 +4,22 @@ BASIC LOOP PROBLEMS
 
 
 START
-READ n = 5
-i = 1
+READ n
+SET i = 1
 WHILE i<=n
    PRINT i
    i=i+1
 END WHILE
 END
+
+
+1.start chesanu (START)
+2.n ni read chesanu (READ n)
+3.i = 1 ani set chesina (SET i = 1) 
+4.i<=n varkaku chesina (WHILE i<=)
+5.print i chesina
+6.i=i+1 ani chesina
+7. stop chesanu end while
+8.end
 
 
