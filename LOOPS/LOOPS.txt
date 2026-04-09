@@ -23,3 +23,14 @@ END
 8.end
 
 
+PRINT NUMBERS FROM N TO 1
+
+
+START
+READ n
+SET i = n
+WHILE i>=1
+   PRINT i
+   i = i-1
+END WHILE
+WHILE
