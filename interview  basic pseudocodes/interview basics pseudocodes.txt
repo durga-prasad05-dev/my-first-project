@@ -1,4 +1,4 @@
-PRINT NUMBERS FROM 1 TO N
+PRINT NUMBERS FROM 1 TO N (DAY 1)
 PSEUDOCODE
 
 START 
@@ -10,7 +10,7 @@ WHILE i<=n
 END WHILE
 END
 
-2.PRINT NUMBERS FROM N TO 1
+2.PRINT NUMBERS FROM N TO 1 (DAY 2)
 
 START
 READ n
@@ -18,5 +18,27 @@ SET i = n
 WHILE i>=1
    PRINT i
    i = i-1
+END WHILE
+END
+
+3.print all even numbers between 1 to N  (DAY 3)
+
+START
+READ n
+SET i = 2
+WHILE i<=n   
+   PRINT i
+   i = i+2
+END WHILE
+END
+
+4.PRINT ALL ODD NUMBERS BETWEEN 1 TO N
+
+START
+READ N
+SET i = 1
+WHILE i<=N
+   PRINT i
+   i=i+2
 END WHILE
 END
