@@ -1,0 +1,45 @@
+NAMING CONVENSIONS (CODING STANDARS)
+
+JAVA HAS 6COMPONENTS
+
+1.package lo anni small letters a undali(lower case) ,special characters undakudadhu,numbers undakudadhu
+example valid package name
+com.java.fundamentals
+com.java.basics
+com.facebook.login
+package name lekunda class name ctreate cheyakudadhu
+
+2.class
+pascal case lo undali
+pascal case ante word starting letter capital undali
+example:
+1.MyFirstJavaCode
+2.HelloWorld
+3.EmployeeDetails
+(myfirstjavaprogram,helloworld,employeedetails) idhi correct kadhu
+ 
+3.interface
+same pascal case
+kani ivvi predefine words anta like
+comparable,runnable,cloneable lanti words anta
+
+
+4.variables
+camelCase ante first word letter small letter undali next tarvta starting worlds 1st one big letter undali
+example
+1.smaallLetter
+2.goodBoy
+3.employeeDetails
+
+5.method
+task in represent cheyali
+same camel case
+example: task is get product details
+1.getProductDetails
+task:what is the milage of electric vehile 
+2.whatIsTheMilageOfElctricVehicle
+
+6.constant
+SNAKE_CASE(ALL CAPTITAL LETTERS)
+example:max attempts allowed
+1.MAX_ATTEMPTS_ALLOWED 
