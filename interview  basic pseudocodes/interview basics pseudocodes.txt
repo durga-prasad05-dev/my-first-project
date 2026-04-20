@@ -42,3 +42,26 @@ WHILE i<=N
    i=i+2
 END WHILE
 END
+
+5.Print the multiplication table of a given number
+  
+PSUEDOCODE
+
+START
+READ n
+SET i =1
+WHILE i<=10
+   print n x i = (n*1)
+   SET i = i + 1
+END WHILE 
+END
+
+6. Find the sum of first N natural numbers
+
+START
+READ n
+SUM = n(n*1)/2
+PRINT sum
+END
+
+7.
